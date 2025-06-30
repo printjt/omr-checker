@@ -4,7 +4,6 @@
 !.github/
 
 # Everything in inputs/ and outputs/
-inputs/*
 outputs/*
 
 # Misc
