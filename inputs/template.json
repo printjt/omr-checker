@@ -9,12 +9,10 @@
   ],
   "preProcessors": [
     {
-      "name": "CropPage",
+      "name": "CropOnMarkers",
       "options": {
-        "morphKernel": [
-          10,
-          10
-        ]
+        "relativePath": "omr_marker.jpg",
+        "sheetToMarkerWidthRatio": 17
       }
     }
   ],
@@ -22,8 +20,8 @@
     "MCQ_Block_1": {
       "fieldType": "QTYPE_MCQ4",
       "origin": [
-        400,
-        335
+        150,
+        350
       ],
       "fieldLabels": [
         "q1",
@@ -42,24 +40,34 @@
         "q14",
         "q15"
       ],
-      "labelsGap": 54,
-      "bubblesGap": 100
+      "labelsGap": 73.5,
+      "bubblesGap": 107
     },
     "MCQ_Block_2": {
       "fieldType": "QTYPE_MCQ4",
       "origin": [
-        1050,
-        335
+        870,
+        350
       ],
-      "fieldLabels": [
+     "fieldLabels": [
         "q16",
         "q17",
         "q18",
         "q19",
-        "q20"
+        "q20",
+        "q21",
+        "q22",
+        "q23",
+        "q24",
+        "q25",
+        "q26",
+        "q27",
+        "q28",
+        "q29",
+        "q30"
       ],
-    "labelsGap": 54,
-      "bubblesGap": 100
+   "labelsGap": 73.5,
+      "bubblesGap": 107
     }
 
   }
