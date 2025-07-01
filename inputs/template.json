@@ -22,8 +22,8 @@
     "MCQ_Block_1": {
       "fieldType": "QTYPE_MCQ4",
       "origin": [
-        360,
-        355
+        400,
+        335
       ],
       "fieldLabels": [
         "q1",
@@ -42,14 +42,14 @@
         "q14",
         "q15"
       ],
-      "labelsGap": 57,
+      "labelsGap": 54,
       "bubblesGap": 100
     },
     "MCQ_Block_2": {
       "fieldType": "QTYPE_MCQ4",
       "origin": [
-        1020,
-        355
+        1050,
+        335
       ],
       "fieldLabels": [
         "q16",
@@ -58,7 +58,7 @@
         "q19",
         "q20"
       ],
-    "labelsGap": 57,
+    "labelsGap": 54,
       "bubblesGap": 100
     }
 
